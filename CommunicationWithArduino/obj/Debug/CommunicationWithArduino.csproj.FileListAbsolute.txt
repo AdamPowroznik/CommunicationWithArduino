@@ -1,0 +1,15 @@
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\bin\Debug\CommunicationWithArduino.exe.config
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\bin\Debug\CommunicationWithArduino.exe
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\bin\Debug\CommunicationWithArduino.pdb
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\CommunicationWithArduino.csprojResolveAssemblyReference.cache
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\MainWindow.g.cs
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\App.g.cs
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\CommunicationWithArduino_MarkupCompile.cache
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\CommunicationWithArduino_MarkupCompile.lref
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\MainWindow.baml
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\CommunicationWithArduino.g.resources
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\CommunicationWithArduino.Properties.Resources.resources
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\CommunicationWithArduino.csproj.GenerateResource.Cache
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\CommunicationWithArduino.exe
+c:\users\bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\CommunicationWithArduino.pdb
+C:\Users\Bla\documents\visual studio 2017\Projects\CommunicationWithArduino\CommunicationWithArduino\obj\Debug\CommunicationWithArduino_Content.g.cs
